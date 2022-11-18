@@ -36,6 +36,8 @@ else
 
 //bug fix 2
 
+//master change
+
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
