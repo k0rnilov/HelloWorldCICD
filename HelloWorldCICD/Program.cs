@@ -28,6 +28,13 @@ else
     app.UseHsts();
 }
 // change
+//change 2
+//add auth
+
+//add auth 2
+//bug fix
+
+//bug fix 2
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
