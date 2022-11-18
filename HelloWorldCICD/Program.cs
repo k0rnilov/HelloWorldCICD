@@ -28,6 +28,8 @@ else
     app.UseHsts();
 }
 // change
+//change 2
+//add auth
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
