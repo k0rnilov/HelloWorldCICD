@@ -34,6 +34,8 @@ else
 //add auth 2
 //bug fix
 
+//bug fix 2
+
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
