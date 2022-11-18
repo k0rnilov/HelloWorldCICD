@@ -31,6 +31,9 @@ else
 //change 2
 //add auth
 
+//add auth 2
+//bug fix
+
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
